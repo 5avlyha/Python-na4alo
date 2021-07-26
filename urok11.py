@@ -1,6 +1,6 @@
 import random
 chisla=[random.randint(0,99) for i in range(99)]
-print(chisla)
+print(chisla);
 #Смотрим какие числа есть, и пишем на какие хотим изменить
 a = int(input("Что будем изменять?: "))
 b = int(input("На что меняем?: "))
